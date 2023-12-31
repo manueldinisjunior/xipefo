@@ -8,5 +8,5 @@
 
 # Author
 
-- [Xipefo Creative Agency](https://xipefo.com/about)
+- [Xipefo](https://xipefo.com/sobre)
 - [Manuel Dinis Júnior](https://manueldinisjunior.com)
