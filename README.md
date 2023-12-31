@@ -1,5 +1,12 @@
-# Repository for the Web Application: Xipefo Creative Agency
+# Xipefo Creative Agency
 
-# Live:
+- This repository, contain information about the Xipefo Creative Agency Web Application: 
 
-[Website](https://xipefo.com)
+# Live-Website:
+
+- [Xipefo](https://xipefo.com)
+
+# Author
+
+- [Xipefo Creative Agency](https://xipefo.com)
+- [Manuel Dinis Júnior](https://manueldinisjunior.com)
