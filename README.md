@@ -4,9 +4,9 @@
 
 # Live-Website:
 
-- [Xipefo](https://xipefo.com)
+- [Web App](https://xipefo.com)
 
 # Author
 
-- [Xipefo Creative Agency](https://xipefo.com)
+- [Xipefo Creative Agency](https://xipefo.com/about)
 - [Manuel Dinis Júnior](https://manueldinisjunior.com)
