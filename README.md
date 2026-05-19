@@ -9,4 +9,4 @@
 # Author
 
 - [Xipefo](https://xipefo.com/sobre)
-- [Manuel Dinis Júnior](https://manueldinisjunior.com)
+- [Manuel Dinis Júnior](https://manueldinisjunior.de)
